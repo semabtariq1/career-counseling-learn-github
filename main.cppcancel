@@ -11,10 +11,9 @@ else if
 (num % 2==0) {
 cout<< " The number you have entered is even: ";
 }
-else {
-cout<<"num is odd: ";
+cout<<"number you enter is odd:";
+
 }
 
 return 0;
 }
-
